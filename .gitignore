@@ -1,0 +1,6 @@
+﻿*.apk
+*.aab
+asl_project/build/
+asl_project/.dart_tool/
+asl_project/android/.gradle/
+asl_project/assets/
